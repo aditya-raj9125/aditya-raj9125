@@ -7,7 +7,6 @@
 CSE @ Bennett University · Building intelligent systems with Java, Spring Boot & React
 
 ---
-
 ### Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://aditya-raj9125.github.io/Personal-Portfolio/)
@@ -48,9 +47,10 @@ CSE @ Bennett University · Building intelligent systems with Java, Spring Boot 
 
 **AI / ML**
 
-![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F54F3E?style=flat-square&logo=groq&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-white?style=flat&logo=amazonaws&logoColor=FF9900)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Groq](https://img.shields.io/badge/Groq-white?style=flat&logo=groq&logoColor=F54F3E)&nbsp;
+![Pathway](https://img.shields.io/badge/Pathway-white?style=flat&logoColor=000)
 
 ---
 
