@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aditya Raj
+# Hi, I'm Aditya Raj
 
 **Full-Stack Developer · AI/ML · Distributed Systems**
 
