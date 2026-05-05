@@ -56,7 +56,15 @@ CSE @ Bennett University · Building intelligent systems with Java, Spring Boot 
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=aditya-raj9125&show_icons=true&hide_border=true&count_private=true&theme=default" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj9125&layout=compact&hide_border=true&theme=default" height="160" />
-
-</div>
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=aditya-raj9125&show_icons=true&count_private=true&hide_border=true&theme=transparent"
+    alt="GitHub Stats"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-raj9125&layout=compact&hide_border=true&theme=transparent"
+    alt="Top Languages"
+  />
+</p>
