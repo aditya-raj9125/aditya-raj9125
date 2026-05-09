@@ -6,6 +6,10 @@
 
 CSE @ Bennett University · Building intelligent systems with Java, Spring Boot & React
 
+### Profile Views
+
+![](https://komarev.com/ghpvc/?username=aditya-raj9125&style=flat-square&color=blue)
+
 ---
 ### Connect
 
